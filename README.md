@@ -1,4 +1,4 @@
-# Backbone.Paginator for Rails [![Gem Version](https://badge.fury.io/rb/backbone-paginator-rails.svg)](http://badge.fury.io/rb/backbone-paginator-rails)
+# Backbone.Paginator for Rails [![Gem Version](https://badge.fury.io/rb/backbone-paginator-rails.svg?_=321654)](http://badge.fury.io/rb/backbone-paginator-rails)
 
 A pageable, drop-in replacement for Backbone.Collection called Backbone.PageableCollection
 See the [Backbone.Paginator](http://github.com/backbone-paginator/backbone.paginator) for more information and examples.
